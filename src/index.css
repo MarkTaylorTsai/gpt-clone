@@ -131,3 +131,26 @@ input:focus {
 .feed p.role {
   min-width: 100px;
 }
+
+@media (max-width: 768px) { 
+  .side-bar {
+    width: 100%; 
+    height: auto; 
+  }
+
+  .main {
+    width: 100%; 
+    height: auto; 
+  }
+
+  .input-container,
+  .button-section,
+  .feed {
+    width: 90%; 
+    max-width: none; 
+  }
+
+  .feed li {
+    padding: 10px 0 10px 20px;
+  }
+}
