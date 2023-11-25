@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mark-gpt/static/css/main.91b40c70.css",
-    "main.js": "/mark-gpt/static/js/main.50ce7ba5.js",
+    "main.js": "/mark-gpt/static/js/main.c10221bf.js",
     "index.html": "/mark-gpt/index.html",
     "main.91b40c70.css.map": "/mark-gpt/static/css/main.91b40c70.css.map",
-    "main.50ce7ba5.js.map": "/mark-gpt/static/js/main.50ce7ba5.js.map"
+    "main.c10221bf.js.map": "/mark-gpt/static/js/main.c10221bf.js.map"
   },
   "entrypoints": [
     "static/css/main.91b40c70.css",
-    "static/js/main.50ce7ba5.js"
+    "static/js/main.c10221bf.js"
   ]
 }
